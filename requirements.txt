@@ -1,0 +1,3 @@
+streamlit>=1.58
+openai>=3.2
+python-dotenv
